@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.num1 {
+    background-color: lightpink;
+    font-family: Verdana, Deja-Vu, sans-serif;
+}
+
+#num2 {
+    color: blue;
+    font-size: 32px;
+}
+
+.num1.cool {
+    font-size:24px;
+}
+
+#another_id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight:bold;
+}
